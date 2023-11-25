@@ -1,7 +1,8 @@
 import React from 'react'
+import './PrincipalPage.css'
 
 export const Principal = () => {
   return (
-    <div>PrincipalPage</div>
+    <div className='top'><p>Buen día, Sr Luis.</p></div>
   )
 }
